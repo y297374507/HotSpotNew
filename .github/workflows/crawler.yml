@@ -1,4 +1,4 @@
-name: Get Hot News
+name: Get News
 
 on:
   schedule:
